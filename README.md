@@ -6,6 +6,7 @@ An iOS app that allows users to find information about TV shows, built with TVMa
 - Clean architecture with MVVM
 - UIKit Programmatically
 - Combine 
+- Diffable Data Sources
 - TVMazeAPI (https://www.tvmaze.com/api)
 - SDWebImage (https://github.com/SDWebImage/SDWebImage)
 - Cosmos star rating control (https://github.com/evgenyneu/Cosmos)
